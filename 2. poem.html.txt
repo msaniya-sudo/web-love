@@ -1,0 +1,63 @@
+// poem.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Poem for You</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Poem for You ✨</h1>
+  </header>
+  <nav>
+    <a href="index.html">My Home</a>
+    <a href="poem.html">Poem For You</a>
+    <a href="memories.html">Memories</a>
+    <a href="hug.html">A Big Hug</a>
+  </nav>
+  <main>
+    <section>
+      <h2>You have no idea, baby...</h2>
+      <p>
+        how much happiness you bring—<br>
+        in the tiniest moments,<br>
+        in the quietest things.<br><br>
+        A simple smile from you<br>
+        feels like fireworks in my heart.<br>
+        A random chat, a playful glance,<br>
+        melts me right from the start.<br><br>
+        The way you run—<br>
+        just to get me what I need,<br>
+        or remember the tiniest things I love...<br>
+        That’s real love, indeed.<br><br>
+        When I break,<br>
+        you bend beside me—soft and sure,<br>
+        holding my pain like it’s your own.<br><br>
+        And in that quiet grace,<br>
+        I see what love is truly made of.<br><br>
+        You leave the world behind<br>
+        just to sit with me in silence,<br>
+        to hold me, to hear me,<br>
+        to love me with that gentlest defiance.<br><br>
+        You care for my things<br>
+        more than I ever could—<br>
+        as if every piece of me<br>
+        is something holy, something good.<br><br>
+        Every little gesture of yours,<br>
+        every “I’m here” you silently show,<br>
+        makes me fall,<br>
+        harder and deeper, every day more.<br><br>
+        And now...<br>
+        the thought of a day without you?<br>
+        Unthinkable.<br><br>
+        Because, baby,<br>
+        you are my forever,<br>
+        in every minute, in every miracle. 💫
+      </p>
+    </section>
+  </main>
+</body>
+</html>

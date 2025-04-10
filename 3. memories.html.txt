@@ -1,0 +1,50 @@
+// memories.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Memories</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Our Memories 📸</h1>
+  </header>
+  <nav>
+    <a href="index.html">My Home</a>
+    <a href="poem.html">Poem For You</a>
+    <a href="memories.html">Memories</a>
+    <a href="hug.html">A Big Hug</a>
+  </nav>
+  <main>
+    <section class="gallery">
+      <div>
+        <img src="images/love-you.jpg" alt="First I Love You">
+        <p>This was the moment I gave you my heart—without even realizing it.</p>
+      </div>
+      <div>
+        <img src="images/proposal.jpg" alt="Proposal Day">
+        <p>You asked me to be yours… and I’ve never stopped saying yes.</p>
+      </div>
+      <div>
+        <img src="images/sneaky.jpg" alt="Sneaky Outings">
+        <p>Every stolen moment, every secret glance—we were always worth the risk.</p>
+      </div>
+      <div>
+        <img src="images/home.jpg" alt="Our Home Together">
+        <p>In every corner of this space, your love echoes like a soft lullaby.</p>
+      </div>
+      <div>
+        <img src="images/fav.jpg" alt="Favorite Picture">
+        <p>This smile? This warmth? It’s my forever safe place.</p>
+      </div>
+      <div>
+        <img src="images/forever.jpg" alt="Forever Love">
+        <p>No matter what, no matter when—you are my always.</p>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
